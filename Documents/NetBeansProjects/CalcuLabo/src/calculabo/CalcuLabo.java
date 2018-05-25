@@ -20,7 +20,7 @@ public class CalcuLabo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       JFrame ventana = new JFrame("CALCULADORA");
+       JFrame ventana = new JFrame("Calculadora");
        ventana.setContentPane(new ventana());
        ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
        ventana.setResizable(false);
