@@ -4,7 +4,10 @@ package calculabo;
 import calculabo.Aritmetica.FactoryAritmetica;
 import calculabo.Convertidor.FactoryConverter;
 
-
+/**
+ *
+ * @author LN710Q
+ */
 public class FactoryProducer {
     
     public static AbstractFactory getFactory(String type){
